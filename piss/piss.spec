@@ -23,7 +23,7 @@ desperate security system for the lazy trusted system administrator.
 It's based on a deep investigation process trying to find the most
 generalized psychological system intrusion profile.
 
-The protection scheme is included both in English and Spanish.
+The protection scheme is included in English ,  Spanish and Galician.
 
 %description -l es
 El sistema de seguridad psicológico (siglas PISS en inglés) es la
@@ -34,7 +34,7 @@ Ha sido diseñado a partir de una profunda investigación en los
 perfiles más genéricos de intrusión en sistemas.
 
 Se incluyen mecanismos de protección tanto en lengua inglesa como
-española.
+española y gallega.
  
 
 %prep
@@ -61,6 +61,8 @@ chattr +i /README
 chattr -i /README
 
 
-%changelog 
+%changelog
+* Tue Dec 02 2002 Juan Manuel Sende
+- Modificacion de la descripcion, idioma gallego.
 * Tue Sep 10 2002 Ismael Olea
 - Creación del paquete y liberación inicial.
