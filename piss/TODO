@@ -1,0 +1,8 @@
+
+  * Add configure and make installation system.
+
+  * Add a /usr/sbin/systemfuckedby tool for advertise intruders themselves
+    at the system log file.
+
+  * Creation of a Debian package
+
